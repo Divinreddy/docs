@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Getting started](getting_started.md)
-* [APIs](apis.md)
 * [Deployments](deployments.md)
+* [APIs](apis.md)
 
