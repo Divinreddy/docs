@@ -7,6 +7,7 @@
    * PHP Continuous Delivery
    * JavaScript/Node.js Continuous Delivery
 * [Database Support](database_support.md)
+   * MySQL
 * [Repositories](repositories.md)
 * [Environments](environments.md)
 * [Deployments](deployments.md)
