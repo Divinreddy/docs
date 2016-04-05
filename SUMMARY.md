@@ -16,11 +16,11 @@
    * Platform Updates
    * Available Environment Variables
    * Managing Public SSH Keys for Server
+* Deploying your application
 * Customizing your deployment script
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
 * [APIs](apis.md)
    * Repositories
    * Environments
    * Deployments
-* Deploying your application
 
