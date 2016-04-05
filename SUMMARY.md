@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [Getting started](getting_started.md)
-   * Adding your GitHub or Bitbucket project to SpikeNode
    * SpikeNode in your delivery process
+   * Adding your GitHub or Bitbucket project to SpikeNode
 * [Language Support](language_support.md)
    * PHP Continuous Delivery
    * JavaScript/Node.js Continuous Delivery
