@@ -12,4 +12,5 @@
 * [APIs](apis.md)
    * Repositories
    * Deployments
+   * Environments
 
