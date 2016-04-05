@@ -6,10 +6,10 @@
 * [Language Support](language_support.md)
    * PHP Continuous Delivery
    * JavaScript/Node.js Continuous Delivery
+* [Database Support](database_support.md)
 * [Repositories](repositories.md)
 * [Environments](environments.md)
 * [Deployments](deployments.md)
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
 * [APIs](apis.md)
-* [Database Support](database_support.md)
 
