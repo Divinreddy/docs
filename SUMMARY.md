@@ -12,9 +12,9 @@
    * MongoDB
 * [The SpikeNode Platform](the_spikenode_platform.md)
    * Key Concepts
+   * Platform Updates
    * Available Environment Variables
    * Managing Public SSH Keys for Server
-   * Platform Updates
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
 * [APIs](apis.md)
    * Repositories
