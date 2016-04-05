@@ -12,6 +12,7 @@
    * MongoDB
 * [The SpikeNode Platform](the_spikenode_platform.md)
    * Key Concepts
+   * Available Environment Variables
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
 * [APIs](apis.md)
    * Repositories
