@@ -18,6 +18,7 @@
    * Managing Public SSH Keys for Server
 * Deploying your application
    * Deploying to Amazon EC2
+   * Deploying to Digital Ocean
 * [Integrating with Continuous Integration](integrating_with_continuous_integration.md)
    * Jenkins
    * Shippable
