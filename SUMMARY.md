@@ -14,6 +14,7 @@
    * Key Concepts
    * Available Environment Variables
    * Managing Public SSH Keys for Server
+   * Platform Updates
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
 * [APIs](apis.md)
    * Repositories
