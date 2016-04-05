@@ -22,4 +22,5 @@
    * Repositories
    * Environments
    * Deployments
+* Deploying your application
 
