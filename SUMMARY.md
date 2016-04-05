@@ -26,6 +26,7 @@
    * Travis CI
 * Customizing your deployment script
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
+   * Creating environments
 * [APIs](apis.md)
    * Repositories
    * Environments
