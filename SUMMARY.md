@@ -17,7 +17,7 @@
    * Available Environment Variables
    * Managing Public SSH Keys for Server
 * Deploying your application
-* Integrating with Continuous Integration
+* [Integrating with Continuous Integration](integrating_with_continuous_integration.md)
 * Customizing your deployment script
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
 * [APIs](apis.md)
