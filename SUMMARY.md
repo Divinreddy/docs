@@ -4,6 +4,7 @@
 * [Getting started](getting_started.md)
 * [Language Support](language_support.md)
    * PHP Continuous Delivery
+   * JavaScript/Node.js Continuous Delivery
 * [Repositories](repositories.md)
 * [Environments](environments.md)
 * [Deployments](deployments.md)
