@@ -19,6 +19,7 @@
 * Deploying your application
    * Deploying to Amazon EC2
    * Deploying to Digital Ocean
+   * Automatic and Manual Deployment Mode
 * [Integrating with Continuous Integration](integrating_with_continuous_integration.md)
    * Jenkins
    * Shippable
