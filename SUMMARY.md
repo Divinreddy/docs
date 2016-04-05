@@ -17,6 +17,7 @@
    * Available Environment Variables
    * Managing Public SSH Keys for Server
 * Deploying your application
+   * Deploying to Amazon EC2
 * [Integrating with Continuous Integration](integrating_with_continuous_integration.md)
    * Jenkins
    * Shippable
