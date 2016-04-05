@@ -16,10 +16,10 @@
    * Platform Updates
    * Available Environment Variables
    * Managing Public SSH Keys for Server
+* Customizing your deployment script
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
 * [APIs](apis.md)
    * Repositories
    * Environments
    * Deployments
-* Customizing your deployment script
 
