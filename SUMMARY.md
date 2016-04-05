@@ -23,4 +23,5 @@
    * Repositories
    * Environments
    * Deployments
+* Integrating with Continuous Integration
 
