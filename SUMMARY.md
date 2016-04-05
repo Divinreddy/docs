@@ -8,9 +8,9 @@
    * JavaScript/Node.js Continuous Delivery
 * [Database Support](database_support.md)
    * MySQL
-* [Repositories](repositories.md)
 * [Environments](environments.md)
 * [Deployments](deployments.md)
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
+* [Repositories](repositories.md)
 * [APIs](apis.md)
 
