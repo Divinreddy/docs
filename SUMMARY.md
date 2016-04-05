@@ -27,6 +27,7 @@
 * Customizing your deployment script
 * [Toolbelts - Command Line](toolbelts_-_command_line.md)
    * Creating environments
+   * Creating projects
 * [APIs](apis.md)
    * Repositories
    * Environments
